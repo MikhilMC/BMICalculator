@@ -1,0 +1,48 @@
+h1, h2, h3 {
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+p {
+    color: green;
+}
+
+#box {
+    border: 10px solid black;
+    margin: 10%;
+    padding: 20%
+}
+
+span {
+    color: blue;
+}
+
+/* you can make changes */
+
+body {
+    text-align: center;
+    background-image: url("https://news.sanfordhealth.org/wp-content/uploads/2019/01/fruits-and-weights-for-healthy-weight-gain.jpg");
+    background-size: cover;
+}
+
+.bmi-box {
+    margin: 1.7rem 29rem;
+    padding: 0 2rem;
+    height: 32rem;
+    border-width: 3px !important;
+}
+
+.form-item {
+    padding: 2rem;
+}
+
+label {
+    padding-bottom: 22px;
+}
+
+.result-box {
+    margin: 10rem 23rem;
+    padding: 0 2rem;
+    height: 20rem;
+    border-width: 3px !important;
+}
